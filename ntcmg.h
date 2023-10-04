@@ -1,7 +1,7 @@
 /*
 ntcmg V1.0
 
-This code implements the NTCM-G algorithms as described
+This code implements the NTCM-G algorithm as described
 in the "EUROPEAN GNSS (GALILEO) OPEN SERVICE/NTCM-G IONOSPHERIC MODEL DESCRIPTION" document:
 https://www.gsc-europa.eu/sites/default/files/NTCM-G_Ionospheric_Model_Description_-_v1.0.pdf
 
