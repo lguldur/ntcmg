@@ -6,7 +6,7 @@ in the "EUROPEAN GNSS (GALILEO) OPEN SERVICE/NTCM-G IONOSPHERIC MODEL DESCRIPTIO
 https://www.gsc-europa.eu/sites/default/files/NTCM-G_Ionospheric_Model_Description_-_v1.0.pdf
 
 Copyright (C) 2023 by David Duchet
-This code is licensed under MIT license (see LICENSE.txt for details)
+This code is licensed under MIT license (see LICENSE file for details)
 
 (dd@bruine.org, FRSEC18E62CA1787)
 */
