@@ -261,7 +261,7 @@ double stec( // TECU
 }
 
 
-double iono_delay(
+double iono_delay( // m
 	double STEC,	// TECU
 	double freq // Hz
 	)
@@ -270,7 +270,7 @@ double iono_delay(
 }
 
 
-double iono_delay( // TECU
+double iono_delay( // m
 	double ai0,
 	double ai1,
 	double ai2,
