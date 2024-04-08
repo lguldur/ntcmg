@@ -266,7 +266,7 @@ double iono_delay( // m
 	double freq // Hz
 	)
 {
-	return 40.3*STEC/(freq*freq); // Eq. 1
+	return 40.3*STEC*1e16/(freq*freq); // Eq. 1
 }
 
 
